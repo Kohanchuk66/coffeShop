@@ -1,0 +1,122 @@
+article{
+    display: flex;
+    margin-left: 5%;
+    margin-top:5%;
+    width: 80%;
+    padding-top: 4%;
+    margin-bottom: 5%;
+    background: linear-gradient(to right, #EDF0F5 25%,white 30% );
+}
+.header-coffeswipe{
+    color: #232C38;
+    font-family: Nunito;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 116.667% */    
+}
+.text-coffeswipe{
+    color: #151D28;
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal; 
+    display: inline-block;   
+    width: 100%;
+    margin-bottom: 3%;
+    text-align: left;
+}
+.priceswipe{
+    color: #C7A17A;
+    font-family: Nunito;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; /* 120% */  
+    text-align: left;  
+    margin-top: 0%;
+}
+.button-cardswipe{
+    background-color: #C7A17A;
+    width: 9vw;
+    height: 4vh;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 19px;
+}
+.button-card2swipe{
+    background-color: white;
+    width: 9vw;
+    height: 4vh;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 19px;
+    margin-left: 5%;
+}
+.button-card2swipe > span{
+    color: black;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+}
+.button-cardswipe > span{
+    color: #F9FBFF;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+}
+.caffecardswipe{
+    width: 30%;
+    background-color: white;
+}
+
+.coffecardswipe{
+    margin-left: 6%;
+    background-size: 100%;
+    width: 34%;
+    height: 52vh;
+}
+.cofezerno-div > img{
+    display: inline-block;
+    background-size: 100%;
+
+}
+.cofezerno-div > h5 {
+    display: inline-block;
+    color: #415167;
+}
+.cofemoun-div > h5 {
+    display: inline-block;
+    color: #415167;
+}
+.cofezerno-div{
+    display: inline-block;
+}
+.cofemoun-div{
+    display: inline-block;
+    margin-left:28% ;
+}
+.caffecardswipe{
+    margin-left: 10%;
+    width: 40%;
+}
+.Fine-text{
+    color: #1f2c3f;
+}
+.alice-carousel{
+    width: 95%!important;
+    display: inline-block;
+}
